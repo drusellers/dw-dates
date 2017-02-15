@@ -1,0 +1,11 @@
+[package]
+name = "dw-dates"
+version = "0.1.0"
+authors = ["Dru Sellers <dru@drusellers.com>"]
+
+[dependencies]
+clippy = "0.0.113"
+clap = "2"
+chrono = "0.2"
+csv = "0.15"
+rustc-serialize = "0.3.22"
